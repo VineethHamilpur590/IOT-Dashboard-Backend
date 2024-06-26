@@ -21,5 +21,5 @@ For front end we used React.js framework as the ui has many areas where maintain
 2. Mongodb to store device data from IoT simulator
 3. mySQL db to store user and device related information
 
-The Front End project is on [this](https://github.com/ChiruhasBobbadi/dashboard-react) repository
+The Front End project is on [this]([https://github.com/ChiruhasBobbadi/dashboard-react](https://github.com/VineethHamilpur590/Cloud-based-IOT-and-Smart-Meter-management-System-)) repository
 
